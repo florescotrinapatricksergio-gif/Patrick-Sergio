@@ -1,0 +1,6 @@
+{
+  "name": "Latidos Mediterráneos en Tarapoto",
+  "description": "Blog científico y divulgativo sobre el impacto de la dieta mediterránea en la prevención de cardiopatías en adultos de Tarapoto, San Martín.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
